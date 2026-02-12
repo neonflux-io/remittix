@@ -570,7 +570,7 @@
                             children: j("remittix_definition_2"),
                           }),
                           (0, l.jsxs)(d(), {
-                            href: "https://dextools.io/app/en/ether/pair-explorer/0xcomingsoon",
+                            href: "https://dextools.io/app/en/ether/pair-explorer/0x4783Bf51347aDABC6906F385c4EFb64c5A1333bD",
                             className:
                               "flex items-center justify-center relative bg-yellow rounded-lg text-black w-[250px] h-[48px] cursor-pointer",
                             target: "_blank",

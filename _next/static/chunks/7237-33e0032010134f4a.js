@@ -11,7 +11,7 @@
       let s = {
         presaleAddress: "0x207bea710fec14b70283ccb9f064311343970f95",
         usdtAddress: "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-        tokenAddress: "0xcomingsoon",
+        tokenAddress: "0x4783Bf51347aDABC6906F385c4EFb64c5A1333bD",
         tokenDecimal: 18,
       };
     },
@@ -297,7 +297,7 @@
                     }),
                     (0, s.jsx)("div", {
                       className: "item-content",
-                      children: "0xcomingsooncomingsoon...",
+                      children: "0x4783Bf51347aDABC6906F385c4EFb64c5A1333bDcomingsoon...",
                     }),
                   ],
                 }),
