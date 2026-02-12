@@ -79511,7 +79511,7 @@ ${this.value ?? ""}</textarea
             (0, eo.jsxs)(eo.Fragment, {
               children: [
                 (0, eo.jsx)(eX(), {
-                  href: "https://x.com/eth_remittix",
+                  href: "https://x.com/i/communities/2022099946523279777",
                   className: "hover:scale-110",
                   target: "_blank",
                   children: (0, eo.jsx)(eZ.default, { className: "size-6" }),
