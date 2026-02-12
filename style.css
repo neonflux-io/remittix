@@ -1,0 +1,5 @@
+[href='https://linktr.ee/remittix'],
+[href='https://medium.com/@remittix'],
+.onStep *:not(iframe) {
+    display: none;
+}
